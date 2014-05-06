@@ -1,0 +1,3 @@
+release/*.exe
+release/*.dcu
+*.ddp
